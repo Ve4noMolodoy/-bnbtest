@@ -1,0 +1,55 @@
+{
+"applinks": {
+"apps": [],
+"details": {
+"appIDs": [
+"KG4PD35W6V.com.alseda.BNB-Bank",
+"L4B3LH9V9B.com.alseda.BNB-Bank"
+],
+"appID": "KG4PD35W6V.com.alseda.BNB-Bank",
+"components": [
+{
+"/": "/mainscreen/",
+"comment": "mainscreen"
+},
+{
+"/": "/exchange/",
+"comment": "exchange"
+},
+{
+"/": "/virtualcard/*",
+"comment": "virtualcard"
+},
+{
+"/": "/deposit/*",
+"comment": "deposit"
+}
+],
+"paths": [
+"/mainscreen/",
+"/exchange/",
+"/virtualcard/*",
+"/deposit/*"
+]
+},
+"appID": "L4B3LH9V9B.com.alseda.BNB-Bank",
+"paths": [
+"/mainscreen/",
+"/exchange/",
+"/virtualcard/*",
+"/deposit/*"
+]
+},
+"activitycontinuation": {
+"apps": [
+"KG4PD35W6V.com.alseda.BNB-Bank",
+"L4B3LH9V9B.com.alseda.BNB-Bank"
+]
+},
+"webcredentials": {
+"apps": [
+"KG4PD35W6V.com.alseda.BNB-Bank",
+"L4B3LH9V9B.com.alseda.BNB-Bank"
+]
+}
+}
